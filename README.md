@@ -8,11 +8,11 @@
 
 ## Connect with me:
 
-<a href="https://www.tripointdev.com/">
+<a target="_blank" href="https://www.tripointdev.com/">
 <img width="5%" src="./img/earth.svg" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/joseph-m-valdez/">
+<a target="_blank" href="https://www.linkedin.com/in/joseph-m-valdez/">
 <img width="5%" src="./img/linkedin.svg" />
 </a>
 
