@@ -3,7 +3,7 @@
 ## I'm a Husband, Father, Developer, and Veteran!!
 
 - 🌱 I’m currently working on building a UI library <br/> and TypeScript SDK for a super secret mobile app.
-- 🛹 2022 Goals: Launch super secret mobile app 🤣
+- 🛹 2023 Goals: Launch super secret mobile app 🤣
 - ⚡ Fun fact: I skate, game, and do outdoorsy stuff in my spare time
 
 ## Connect with me:
